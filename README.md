@@ -5,7 +5,7 @@ step 1: create repo
 step 2: protect the main/master branch
 step 3: add the members of your group to the project
 
-# Regular team members
+# Git workflow
 step 1: work on your own branch
 step 2: once you're done working on your feature, push your branch
 step 3: make a pull request, ping the scrum master that you made one
