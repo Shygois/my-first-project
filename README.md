@@ -11,6 +11,7 @@ step 2: once you're done working on your feature, push your branch
 step 3: make a pull request, ping the scrum master that you made one
 step 4: scrum master does a code review with either the team or the person who make the PR
 step 5: If all is well, merge the changes
+step 6: If changes are merged. The scrum master will then tell everyone in the group to commit whatever changes you have now to your own branch, checkout to the main branch, then do a git pull. (It will take the latest changes on the main branch and bring it to their local machine)
 
 # 1 branch per feature
 # Each person on the team should create their own branch
