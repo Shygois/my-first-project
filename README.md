@@ -1,9 +1,14 @@
 ### To create a branch and switch to it,
 use git checkout -b name-of-branch
+
 # Scrum master todos
 step 1: create repo
 step 2: protect the main/master branch
 step 3: add the members of your group to the project
+
+# Regular team members
+step 1: Once you're added to the repo, you're going to clone it
+Step 2: create your branch
 
 # Git workflow
 step 1: work on your own branch
